@@ -9,7 +9,7 @@ import {
 } from "react-router-dom";
 import ErrorMessage from "../components/ErrorMessage";
 import {
-  addProduct,
+
   getProducsById,
   updateProduct,
 } from "../services/ProductService";
